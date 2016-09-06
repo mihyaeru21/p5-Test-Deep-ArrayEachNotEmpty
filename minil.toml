@@ -1,0 +1,6 @@
+name = "Test-Deep-ArrayEachNotEmpty"
+# badges = ["travis"]
+authority="cpan:MIHYAERU"
+
+module_maker="ModuleBuildTiny"
+
