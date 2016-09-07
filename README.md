@@ -30,10 +30,11 @@ which forbid an empty array.
 
 # LICENSE
 
-Copyright (C) Mihyaeru.
+Copyright (C) Mihyaeru/mihyaeru21.
 
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself.
+Released under the MIT license.
+
+See `LICENSE` file.
 
 # AUTHOR
 
