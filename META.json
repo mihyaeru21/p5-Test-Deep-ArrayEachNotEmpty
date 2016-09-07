@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "an alternative to Test::Deep::ArrayEach",
    "author" : [
       "Mihyaeru <mihyaeru21@gmail.com>"
    ],
@@ -42,12 +42,14 @@
       },
       "runtime" : {
          "requires" : {
+            "Test::Deep" : "0",
             "perl" : "5.008001"
          }
       },
       "test" : {
          "requires" : {
-            "Test::More" : "0.98"
+            "Test::More" : "0.98",
+            "Test::Tester" : "0"
          }
       }
    },

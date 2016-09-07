@@ -1,5 +1,5 @@
 name = "Test-Deep-ArrayEachNotEmpty"
-# badges = ["travis"]
+badges = ["travis"]
 authority="cpan:MIHYAERU"
 
 module_maker="ModuleBuildTiny"
