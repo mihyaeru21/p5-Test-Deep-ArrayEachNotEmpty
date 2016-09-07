@@ -54,6 +54,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/mihyaeru21/p5-Test-Deep-ArrayEachNotEmpty/issues"
+      },
+      "homepage" : "https://github.com/mihyaeru21/p5-Test-Deep-ArrayEachNotEmpty",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/mihyaeru21/p5-Test-Deep-ArrayEachNotEmpty.git",
+         "web" : "https://github.com/mihyaeru21/p5-Test-Deep-ArrayEachNotEmpty"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:MIHYAERU"
 }

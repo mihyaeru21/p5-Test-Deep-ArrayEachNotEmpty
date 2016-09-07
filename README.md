@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/mihyaeru21/p5-Test-Deep-ArrayEachNotEmpty.svg?branch=master)](https://travis-ci.org/mihyaeru21/p5-Test-Deep-ArrayEachNotEmpty)
 # NAME
 
 Test::Deep::ArrayEachNotEmpty - an alternative to Test::Deep::ArrayEach
